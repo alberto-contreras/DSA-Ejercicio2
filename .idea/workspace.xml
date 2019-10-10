@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fddb348b-01db-4970-a45c-7c127219a7c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QueueEmptyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QueueFullException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QueueImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestColas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestColas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/QueueImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/QueueImpl.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
